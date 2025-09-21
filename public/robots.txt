@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.traveltrips.com
+
+# Sitemaps
+Sitemap: https://www.traveltrips.com/sitemap.xml
